@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DinDinnAssignment</string>
+
+    <string name="restaurant">XYZ Restaurant</string>
+
+    <string name="item">item</string>
+    <string name="items">items</string>
+    <string name="okay">Okay</string>
+    <string name="accept">Accept</string>
+    <string name="auto_reject">Auto Reject </string>
+    <string name="at">at </string>
+    <string name="title_activity_ingredients">IngredientsActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="search">Search</string>
+</resources>
